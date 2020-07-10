@@ -5,7 +5,7 @@
 
 # Charles Reservation
 
-Charles Reservation is a React Native based android application that allows users to schedule car service bookings and operate CURD operations on the data. This was developed as a part of a case study. **(Tested for Android platform only)**
+Charles Reservation is a React Native based android application that allows users to schedule car service bookings and operate CRUD operations on the data. This was developed as a part of a case study. **(Tested for Android platform only)**
 
 
 
@@ -25,7 +25,7 @@ react-native run-android
 ## Features
 
 1. Used to add/record the customers data
-2. Supported with CURD operations
+2. Supported with CRUD operations
 3. Uses SQLite DB to store and retrieve data
 
 
